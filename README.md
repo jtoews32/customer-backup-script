@@ -1,6 +1,8 @@
 # Customer Nightly Backup
 
-###### A simple nightly backup script for backing up one NFS mount to another directory.
+##### A simple nightly backup script for backing up one NFS mount to another directory.
+
+###### use "git clone https://github.com/jtoews32/customer-backup-script.git" to download
 
 #### Add this script to the crontab similar to the below
  
