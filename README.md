@@ -1,6 +1,6 @@
 # Customer Nightly Backup
 
-#### A simple nightly backup script for backing up one NFS mount to another directory.
+###### A simple nightly backup script for backing up one NFS mount to another directory.
 
 #### Add this script to the crontab similar to the below
  
