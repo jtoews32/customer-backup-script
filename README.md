@@ -1,4 +1,4 @@
-# customer-backup-script
+# Customer Nightly Backup
 
 A simple nightly backup script for backing up one NFS mount to another directory.
 
